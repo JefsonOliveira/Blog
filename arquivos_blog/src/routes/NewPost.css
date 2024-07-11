@@ -25,3 +25,8 @@ form {
   border-radius: 5px;
   border: none;
 }
+
+.form-control textarea {
+  max-height: 300px;
+  height: 100%;
+}
